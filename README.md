@@ -1,6 +1,6 @@
 # Perfil-Profesional-Martin-Moreno
 <!DOCTYPE html>
-<html>
+<html lang="es-ES">
 
 <head>
   <meta charset="utf-8">
